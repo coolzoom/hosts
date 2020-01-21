@@ -35,3 +35,9 @@
 - 此处的文字仅用于说明，条款以LICENSE文件中的内容为准。
 
 - 请在遵守当地相关法律法规的前提下使用本项目，由此产生的问题我们不负任何责任。
+
+## how to(windows)
+- open https://www.ipaddress.com/
+  - input the url and get the ip address
+  - open hosts file and addd new line
+  - use flushdns.bat under admin
